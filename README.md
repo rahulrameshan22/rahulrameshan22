@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @rahulrameshan22
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email id:rahulrameshan24@gmail.com
+- 👋 Hi, I’m Rahul Rameshan
+- 👀 I’m interested in Data Science
+- 📫 My email id:rahulrameshan24@gmail.com
 
 
 <!---
