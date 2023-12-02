@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Rahul Rameshan
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Devops
+- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 👯 I’m looking to collaborate on on all topics related to Data Science, Machine Learning
 - 📫 My email id:rahulrameshan24@gmail.com
 
 
